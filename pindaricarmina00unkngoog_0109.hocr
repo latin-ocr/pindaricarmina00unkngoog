@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pindaricarmina00unkngoog_0109.png"; bbox 0 0 2925 5150; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 921 1432 1718 1549">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 921 1432 1718 1549">
+     <span class='ocr_line' id='line_1_1' title="bbox 921 1432 1718 1549; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 921 1432 1718 1549; x_wconf 78' lang='grc' dir='ltr'><strong>ΣΧΟΛΙΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 502 1710 2110 1813">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 502 1710 2110 1813">
+     <span class='ocr_line' id='line_1_2' title="bbox 502 1710 2110 1813; baseline 0.005 -24"><span class='ocrx_word' id='word_1_2' title='bbox 502 1710 714 1792; x_wconf 76' lang='grc' dir='ltr'><strong>ΕΙΣ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 789 1712 960 1794; x_wconf 91' lang='lat' dir='ltr'><strong>TA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1027 1714 1293 1813; x_wconf 79' lang='lat' dir='ltr'><strong>TQT</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1347 1716 2110 1801; x_wconf 77' lang='lat' dir='ltr'>IIINAAPOT.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1793 2091 1934 2101">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1793 2091 1934 2101">
+     <span class='ocr_line' id='line_1_3' title="bbox 1793 2091 1934 2101; baseline 0.007 -2"><span class='ocrx_word' id='word_1_6' title='bbox 1793 2091 1898 2101; x_wconf 44' lang='grc' dir='ltr'><strong>ἢ-</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1909 2096 1934 2100; x_wconf 84' lang='grc'><strong>--</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 602 2340 2013 2758">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 602 2340 2013 2758">
+     <span class='ocr_line' id='line_1_4' title="bbox 898 2340 1920 2508; baseline 0.013 -65"><span class='ocrx_word' id='word_1_8' title='bbox 898 2418 907 2425; x_wconf 90' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 983 2340 1621 2451; x_wconf 78' lang='lat' dir='ltr'><strong>scfloLlA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1911 2488 1920 2508; x_wconf 27' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 602 2601 2013 2758; baseline 0.014 -69"><span class='ocrx_word' id='word_1_11' title='bbox 602 2603 743 2689; x_wconf 86' lang='grc' dir='ltr'><strong>ΙΝ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 824 2601 1349 2691; x_wconf 87' lang='lat' dir='ltr'><strong>PINDARI</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1406 2606 2013 2758; x_wconf 24' lang='lat' dir='ltr'><strong>&#39;CARM1NA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
